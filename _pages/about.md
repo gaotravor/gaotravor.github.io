@@ -47,7 +47,6 @@ redirect_from:
       <br/>
       <span style="color: #000000; font-family: 'Georgia'; font-weight: normal;"></span>
       In: 
-      </span>
       <span style="color: #000000; font-family: 'Georgia'; font-weight: normal;">
         <em>The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis</em>
       </span>
